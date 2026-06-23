@@ -1,0 +1,6 @@
+*.exe
+*.zip
+*.msi
+*.pdf
+__pycache__/
+.ipynb_checkpoints/
