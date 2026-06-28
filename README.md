@@ -1,6 +1,7 @@
 
 # Mutual Fund Analytics Platform
 
+
 ## Project Overview
 
 This project analyzes mutual fund performance, investor behavior, SIP growth, risk metrics, and market trends using Python, SQL, Power BI, and SQLite.
