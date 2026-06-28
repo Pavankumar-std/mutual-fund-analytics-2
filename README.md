@@ -1,4 +1,4 @@
-﻿# mutual-fund-analytics-2
+
 # Mutual Fund Analytics Platform
 
 ## Project Overview
